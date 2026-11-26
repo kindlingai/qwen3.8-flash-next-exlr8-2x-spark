@@ -1,3 +1,11 @@
+> [!IMPORTANT]
+> **This repository is archived.** This recipe now lives in [kindlingai/recipes](https://github.com/kindlingai/recipes), the Kindling recipes
+> monorepo, at [`qwen3.8-flash-next/dgx-spark/2x/exlr8-gr8`](https://github.com/kindlingai/recipes/tree/main/qwen3.8-flash-next/dgx-spark/2x/exlr8-gr8), with this repo's full history. Use
+> that folder for the current recipe, and open issues and pull requests in kindlingai/recipes.
+>
+> If that folder has since moved or been retired, the [recipe index](https://github.com/kindlingai/recipes#recipes)
+> lists every current recipe. The rest of this README is the recipe as it was when this repo was archived.
+
 # KindlingAI: Qwen3.8-Flash-Next EXLR8 on two DGX Sparks (K3 & K4, 256K context)
 
 If you are an agent booting this for someone, read [AGENTS.md](AGENTS.md) first, then the Quickstart.
